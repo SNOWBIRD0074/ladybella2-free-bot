@@ -59,13 +59,13 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_France_King.sendMessage(Qr_Code_By_France_King.user.id, { text: '' + b64data });
 	
 				   let FLASH_MD_TEXT = `
-THANKYOU FOR CHOOSING Spy-X
+THANKYOU FOR CHOOSING RAHMANI-XMD
 🔙💚☯️♡𝐃𝐑𝐈𝐏 𝐅𝐀𝐌𝐈𝐋𝐘  .. 🤼 💫
   ╭━━━━❤━━━━╮
   💥VERY ACTIVE 🙅
       🕊️𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐰𝐚𝐲𝐬🍏
   ╰━━━━🥺━━━━╯💚🔙
-❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C
+❒ https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C
 ║ 
 follow our channel to learn how to deploy..
 Repository available at our channel`
