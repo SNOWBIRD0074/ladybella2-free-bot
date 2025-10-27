@@ -65,7 +65,7 @@ THANKYOU FOR CHOOSING RAHMANI-XMD
   💥VERY ACTIVE 🙅
       🕊️𝐂𝐥𝐞𝐚𝐧 𝐚𝐥𝐰𝐚𝐲𝐬🍏
   ╰━━━━🥺━━━━╯💚🔙
-❒ https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C
+❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VatokI45EjxufALmY32X
 ║ 
 follow our channel to learn how to deploy..
 Repository available at our channel`

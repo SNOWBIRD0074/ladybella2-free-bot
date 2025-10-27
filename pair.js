@@ -62,17 +62,17 @@ router.get('/', async (req, res) => {
 
 
 ❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-*_Pair Code Connected by Snowbird*
+*_Pair Code Connected by Pkdriller*
 ______________________________________
 ╔════◇
-║ *『 THANKS 🤍😂 FOR  SHOWING LOVE TO SPY-X』*
+║ *『 THANKS 🤍😂 FOR  SHOWING LOVE TO NEXUS-AI』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/263780145644_
-║❒ *Repo:* _https://github.com/SNOWBIRD0074/Spy-X
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb5nSebFy722d2NEeU3C _
+║❒ *Owner:* _https://wa.me/254794146821_
+║❒ *Repo:* _https://github.com/pkdriller0/NEXUS-AI
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vad7YNyJuyA77CtIPX0x _
 ║❒ 
 ╚════════════════════════╝
 _____________________________________
